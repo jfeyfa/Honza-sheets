@@ -1,0 +1,21 @@
+Zdroj / Kategorie	RSS URL	Poznámka
+Investing.com – Forex News	https://www.investing.com/rss/news_1.rss	Měnové trhy
+Investing.com – Commodities	https://www.investing.com/rss/news_11.rss	Komodity a futures
+Investing.com – Stock Market	https://www.investing.com/rss/news_25.rss	Akciový trh
+Investing.com – Economic Ind.	https://www.investing.com/rss/news_95.rss	Makroindikátory
+Investing.com – Economy News	https://www.investing.com/rss/news_14.rss	Ekonomika
+Investing.com – Cryptocurrency	https://www.investing.com/rss/news_301.rss	Kryptoměny
+Investing.com – Analyst Ratings	https://www.investing.com/rss/news_1061.rss	Analytické ratingy
+Investing.com – SWOT Analysis	https://www.investing.com/rss/news_1060.rss	SWOT analýzy
+Investing.com – Investment Ideas	https://www.investing.com/rss/news_1065.rss	Investiční nápady
+Investing.com – Earnings	https://www.investing.com/rss/news_1062.rss	Hospodářské výsledky
+Investing.com – Company News	https://www.investing.com/rss/news_356.rss	Firemní zprávy
+Investing.com – Insider Trading	https://www.investing.com/rss/news_357.rss	Insider trading
+MarketWatch – Top Stories	https://feeds.marketwatch.com/marketwatch/topstories/	Akcie, trhy, makro
+ETF.com – ETF News	https://www.etf.com/rss.xml	ETF trh
+CNBC – Top News	https://www.cnbc.com/id/100003114/device/rss/rss.html	Trhy, akcie, makro, USA
+CryptoPanic – Crypto News	https://cryptopanic.com/news/rss/	Kryptoměny
+Investopedia – Articles	https://www.investopedia.com/feedbuilder/feed/getfeed/?feedName=rss_articles	Edukační obsah, pojmy, glosář
+Typ sledování	Formát RSS URL	Poznámka
+Konkrétní akcie	https://feeds.finance.yahoo.com/rss/2.0/headline?s=TICKER&region=US&lang=en-US	Funguje například pro AAPL či jiné tickery
+Komodity / indexy	Stejný formát: např. s=CL=F, s=%5EGSPC, …	Pravděpodobně funguje i pro futures a indexy
